@@ -1,0 +1,19 @@
+src/content/docs/k2/reference/delivery-guarantees.mdx
+  s_5b33be812129a4::t_5d4fadda4a86e1 50-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "201e0db9ceb007236d06a4e5f6e22b3be0dc7a52",
+  "prompts": {},
+  "sessions": {
+    "s_5b33be812129a4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "75e36bf3-ad3e-4b62-88c1-37de6d60bd19",
+        "model": "unknown"
+      },
+      "human_author": "Yevgen Safronov <sejoker@gmail.com>"
+    }
+  }
+}
