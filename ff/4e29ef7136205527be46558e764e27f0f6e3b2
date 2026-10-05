@@ -1,0 +1,19 @@
+src/content/docs/k2/platform/pricing.mdx
+  s_9c329c49618d77::t_223bda95e9d462 22-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ff4e29ef7136205527be46558e764e27f0f6e3b2",
+  "prompts": {},
+  "sessions": {
+    "s_9c329c49618d77": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_9c329c49618d77",
+        "model": "unknown"
+      },
+      "human_author": "Yevgen Safronov <sejoker@gmail.com>"
+    }
+  }
+}
