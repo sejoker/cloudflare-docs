@@ -1,0 +1,19 @@
+src/content/partials/workers/storage-products-table.mdx
+  s_cc71423dfd1580::t_8baa0851128f61 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e27b87af49afd213dcc764918624449241d9733a",
+  "prompts": {},
+  "sessions": {
+    "s_cc71423dfd1580": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_cc71423dfd1580",
+        "model": "unknown"
+      },
+      "human_author": "Yevgen Safronov <sejoker@gmail.com>"
+    }
+  }
+}
