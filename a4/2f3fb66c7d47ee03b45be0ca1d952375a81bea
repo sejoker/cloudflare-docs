@@ -1,0 +1,19 @@
+src/content/docs/k2/platform/storage-options.mdx
+  s_87c739ea65e04b::t_68d2aebb9d0580 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a42f3fb66c7d47ee03b45be0ca1d952375a81bea",
+  "prompts": {},
+  "sessions": {
+    "s_87c739ea65e04b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_87c739ea65e04b",
+        "model": "unknown"
+      },
+      "human_author": "Yevgen Safronov <sejoker@gmail.com>"
+    }
+  }
+}
