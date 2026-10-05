@@ -1,0 +1,23 @@
+src/content/docs/k2/features/consume.mdx
+  s_f64b23bbbbf1fa::t_c3afdc57c2af95 28
+src/content/docs/k2/reference/delivery-guarantees.mdx
+  s_f64b23bbbbf1fa::t_408a31dde5d490 1-115
+src/content/docs/k2/reference/index.mdx
+  s_f64b23bbbbf1fa::t_8976cef1909473 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c8b18ee70a1b7282d2be503a12970208ac23f85e",
+  "prompts": {},
+  "sessions": {
+    "s_f64b23bbbbf1fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_f64b23bbbbf1fa",
+        "model": "unknown"
+      },
+      "human_author": "Yevgen Safronov <sejoker@gmail.com>"
+    }
+  }
+}
