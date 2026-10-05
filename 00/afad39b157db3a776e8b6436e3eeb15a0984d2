@@ -1,0 +1,21 @@
+src/content/docs/k2/platform/limits.mdx
+  s_8049cedc4f7216::t_f6cb6f8ae482d7 8,32-40,51-54
+src/content/docs/k2/platform/pricing.mdx
+  s_8049cedc4f7216::t_31f4a4da2d82ca 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "00afad39b157db3a776e8b6436e3eeb15a0984d2",
+  "prompts": {},
+  "sessions": {
+    "s_8049cedc4f7216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_8049cedc4f7216",
+        "model": "unknown"
+      },
+      "human_author": "Yevgen Safronov <sejoker@gmail.com>"
+    }
+  }
+}
