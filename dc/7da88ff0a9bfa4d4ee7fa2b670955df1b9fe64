@@ -1,0 +1,21 @@
+src/content/docs/workers/platform/storage-options.mdx
+  s_f06977a3d5dc6b::t_efd9d66a8bb143 140-157
+src/content/partials/workers/storage-products-table.mdx
+  s_f06977a3d5dc6b::t_7141a539da75e3 5-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dc7da88ff0a9bfa4d4ee7fa2b670955df1b9fe64",
+  "prompts": {},
+  "sessions": {
+    "s_f06977a3d5dc6b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_f06977a3d5dc6b",
+        "model": "unknown"
+      },
+      "human_author": "Yevgen Safronov <sejoker@gmail.com>"
+    }
+  }
+}
